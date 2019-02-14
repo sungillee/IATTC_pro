@@ -1,2 +1,2 @@
-plat(0:8)
+plat(0:10, col='red')
 
