@@ -1,1 +1,2 @@
-plot(1:10, col='red')
+plat(0:8)
+
